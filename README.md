@@ -1,4 +1,4 @@
-                                                              Hi there! I'm Talha 
+                                                            Hi there! I'm Talha 
 
 👾 I’m currently working with React.js and anything related with JavaScript.
 
@@ -13,3 +13,8 @@
 
 
 <h1> Technologies </h1>
+HTML5 
+CSS3
+BootStrap
+JavaScript
+React.js
